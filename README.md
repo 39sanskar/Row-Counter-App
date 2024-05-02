@@ -1,3 +1,2 @@
-https://39sanskar-row-counter-app.netlify.app
-
+https://39sanskar-row-counter.netlify.app
 A Simple Row Counter App
